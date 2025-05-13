@@ -1,2 +1,1 @@
-Inclui Streamlit App, exportação PDF/Excel, envio simulado por e-mail e Teams.
-Edite o .env com suas credenciais reais.
+Execute 'streamlit run streamlit_app.py'. Configure .env. Execute agendamento com .bat/.sh
