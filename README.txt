@@ -1,0 +1,1 @@
+Execute 'streamlit run streamlit_app.py'. Configure .env. Execute agendamento com .bat/.sh
